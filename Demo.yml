@@ -1,5 +1,5 @@
 ---
-- hosts: csr1
+- hosts: csr
   gather_facts: no
   connection: local
   tasks:
